@@ -98,7 +98,7 @@ img {
 
 .sect-wseparator {
   border-bottom: 1px solid hsl(30, 54%, 90%);
-  padding: 2.5rem;
+  padding: 2.5rem 0;
 }
 
 .instructions {
@@ -123,14 +123,13 @@ ol li {
 }
 
 .nutrition {
-  padding-left: 0.5rem;
   font-size: 2rem;
   font-family: "Young Serif";
   color: hsl(14, 45%, 36%);
   font-weight: 500;
   margin-top: 3rem;
   margin-bottom: 1rem;
-  margin-left: 2rem;
+  margin-left: 0.7rem;
 }
 
 caption {
